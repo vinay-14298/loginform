@@ -9,9 +9,7 @@ body{background-color: lightblue;}
 </head>
 
 <body>
-<style>
-background: #eee;
-</style>
+
 <form action ="register.php" method="post">
 
 <table width="300" border="0" cellspacing="1" cellpadding="1">
